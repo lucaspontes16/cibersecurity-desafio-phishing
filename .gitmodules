@@ -1,0 +1,3 @@
+[submodule "desafio-ransomware/desafio-ransomware/cibersecurity-desafio-ransomware"]
+	path = desafio-ransomware/desafio-ransomware/cibersecurity-desafio-ransomware
+	url = https://github.com/lucaspontes16/cibersecurity-desafio-ransomware.git
